@@ -24,6 +24,7 @@ setup(
     author='Zope Foundation and Contributors',
     author_email='zope-dev@zope.org',
     long_description="\n\n".join([README, CHANGES]),
+    keywords="zope application server WSGI meta",
     classifiers=[
         'Development Status :: 6 - Mature',
         "Environment :: Web Environment",
@@ -39,6 +40,7 @@ setup(
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: Implementation :: CPython",
     ],
+    zip_safe=False,
     install_requires=[
         'Zope >= 4.0b1',
     ],
