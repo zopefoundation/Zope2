@@ -28,7 +28,7 @@ setup(
     classifiers=[
         'Development Status :: 6 - Mature',
         "Environment :: Web Environment",
-        "Framework :: Zope2",
+        "Framework :: Zope :: 4",
         "License :: OSI Approved :: Zope Public License",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
