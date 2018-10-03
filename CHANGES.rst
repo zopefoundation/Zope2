@@ -6,6 +6,7 @@ Change log
 
 - Added support for Python 3.7.
 
+- Dropped support for Python 3.4.
 
 4.0b1 (2017-09-18)
 ------------------
