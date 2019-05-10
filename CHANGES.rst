@@ -1,12 +1,13 @@
 Change log
 ==========
 
-4.0b2 (unreleased)
-------------------
+4.0 (unreleased)
+----------------
 
-- Added support for Python 3.7.
+- Add support for Python 3.7 and 3.8a3.
 
-- Dropped support for Python 3.4.
+- Drop support for Python 3.4.
+
 
 4.0b1 (2017-09-18)
 ------------------
