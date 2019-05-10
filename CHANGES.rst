@@ -1,7 +1,7 @@
 Change log
 ==========
 
-4.0 (unreleased)
+4.0 (2019-05-10)
 ----------------
 
 - Add support for Python 3.7 and 3.8a3.
