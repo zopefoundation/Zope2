@@ -13,7 +13,7 @@ README = _read_file('README.rst')
 CHANGES = _read_file('CHANGES.rst')
 
 
-version = '4.0'
+version = '4.1.dev0'
 
 setup(
     name='Zope2',
