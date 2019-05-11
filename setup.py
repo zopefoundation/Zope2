@@ -43,6 +43,6 @@ setup(
     ],
     zip_safe=False,
     install_requires=[
-        'Zope >= 4.0b1',
+        'Zope >= 4.0',
     ],
 )
